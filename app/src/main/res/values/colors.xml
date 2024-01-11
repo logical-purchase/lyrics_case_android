@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#0D6EFD</color>
+    <color name="body">#FFFFFF</color>
+    <color name="body_secondary">#E9ECEF</color>
+
+    <color name="dark_body">#212529</color>
+
+
+    <color name="light_on_primary_subtle">#000000</color>
+
+    <color name="dark_on_primary_subtle">#FFFFFF</color>
+    <color name="touch_feedback">#EFEFEF</color>
+
+
+</resources>

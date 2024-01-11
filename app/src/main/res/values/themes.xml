@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LyricsCase" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/body</item>
+        <item name="android:windowBackground">@color/body_secondary</item>
+    </style>
+
+    <style name="toolbarTitle">
+        <item name="android:textColor">@color/primary</item>
+    </style>
+
+    <style name="songItem">
+        <item name="android:backgroundTint">@color/body</item>
+    </style>
+
+    <style name="btnPrimary">
+        <item name="android:backgroundTint">@color/primary</item>
+    </style>
+
+    <style name="textDayNight">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Theme.LyricsCase" parent="Base.Theme.LyricsCase" />
+</resources>
