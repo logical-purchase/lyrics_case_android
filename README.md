@@ -1,3 +1,3 @@
-Repositorio del cliente Android del sistema web Lyrics Case
+Repositorio del cliente Android de Lyrics Case
 
 https://lyricscase.000webhostapp.com/
